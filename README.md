@@ -1,6 +1,6 @@
  FoodieHub – Online Food Ordering System
  Project Overview
-FoodieHub is a responsive web-based food ordering system that allows users to browse restaurants, add menu items to a cart, and simulate the ordering process with real-time updates. The project is built using HTML5, CSS3, Bootstrap 5, JavaScript (ES6), and jQuery to deliver a modern, interactive, and mobile-friendly experience.
+FoodieHub is a responsive web-based food ordering system that allows users to browse restaurants, add menu items to a cart, and simulate the ordering process with real-time updates. The project is built using HTML5, CSS3, Bootstrap 5, JavaScript (ES6), and jQuery to deliver a modern, interactive, and mobile-friendly experience
 
  Features
 Restaurant Listing – Browse multiple restaurants with menus.
